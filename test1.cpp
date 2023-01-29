@@ -1,7 +1,7 @@
 
 //Change code
 {
-  "version": "0.2.0",
+  "version": "0.2.11",
   "configurations": [
     {
       "name": "Stripe: Webhooks listen",
