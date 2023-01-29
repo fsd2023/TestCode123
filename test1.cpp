@@ -5,7 +5,7 @@
   "configurations": [
     {
       "name": "Stripe: Webhooks listen",
-      "type": "stripe",
+      "type": "VISA",
       "request": "launch",
       "command": "listen",
       "forwardTo": "http://localhost:3000",
